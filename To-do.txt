@@ -3,3 +3,5 @@
 - Adding a way to automatically infer the maximum value for the pdf. This makes the rejection sampling easier to use.
 
 - Adding phi dependence (for example to account for the East-West asymmetry).
+
+- Allowing for rotations of theta (Currently stacking needs to be directly upward).
