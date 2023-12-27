@@ -1,5 +1,7 @@
 # JLAB_cosmic_watch_monte_carlo
 
+Work started by Antti Eero Asikainen; antti149@mit.edu
+
 Requirements: gcc and a way to do primitive operations in terminal.
 
 This is a repository with a primitive Monte Carlo simulation for straight muon paths within the JLAB Cosmic Watch setup.
